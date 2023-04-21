@@ -129,7 +129,6 @@
     <category name="weapons" />
     <usage name="Underground"/>
     <value name="Tier2" />
-
   </type>
   <type name="GCGN_M110_Green">
     <nominal>10</nominal>
