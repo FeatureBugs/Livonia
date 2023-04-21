@@ -1,0 +1,36 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 999999,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "Money_Euro1",
+        "Money_Euro2",
+        "Money_Euro5",
+        "Money_Euro10",
+        "Money_Euro20",
+        "Money_Euro50",
+        "Money_Euro100",
+        "Money_Euro200",
+        "Money_Euro500"
+    ],
+    "Categories": [
+        "Helmets",
+        "Caps",
+        "Hats_And_Hoods",
+        "Armbands",
+        "Backpacks",
+        "Eyewear",
+        "Gloves",
+        "Bandanas",
+        "Masks",
+        "Vests",
+        "Holsters_And_Pouches",
+        "Ghillies",
+        "Belts",
+        "Baerte",
+        "Wallets"
+    ],
+    "Items": {}
+}

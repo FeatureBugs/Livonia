@@ -1,0 +1,87 @@
+{
+    "m_Version": 5,
+    "BaseBuildingRaidMode": 0,
+    "ExplosionTime": 30.0,
+    "ExplosiveDamageWhitelist": [],
+    "EnableExplosiveWhitelist": 0,
+    "ExplosionDamageMultiplier": 50.0,
+    "ProjectileDamageMultiplier": 1.0,
+    "CanRaidSafes": 1,
+    "SafeRaidUseSchedule": 1,
+    "SafeExplosionDamageMultiplier": 17.0,
+    "SafeProjectileDamageMultiplier": 1.0,
+    "SafeRaidTools": [
+        "Crowbar"
+    ],
+    "SafeRaidToolTimeSeconds": 45,
+    "SafeRaidToolCycles": 1,
+    "SafeRaidToolDamagePercent": 100.0,
+    "CanRaidBarbedWire": 1,
+    "BarbedWireRaidTools": [
+        "Crowbar"
+    ],
+    "BarbedWireRaidToolTimeSeconds": 300,
+    "BarbedWireRaidToolCycles": 5,
+    "BarbedWireRaidToolDamagePercent": 100.0,
+    "CanRaidLocksOnWalls": 0,
+    "CanRaidLocksOnFences": 0,
+    "CanRaidLocksOnTents": 0,
+    "LockRaidTools": [],
+    "LockOnWallRaidToolTimeSeconds": 900,
+    "LockOnFenceRaidToolTimeSeconds": 900,
+    "LockOnTentRaidToolTimeSeconds": 45,
+    "LockRaidToolCycles": 1,
+    "LockRaidToolDamagePercent": 100.0,
+    "CanRaidLocksOnContainers": 1,
+    "LockOnContainerRaidUseSchedule": 1,
+    "LockOnContainerRaidTools": [
+        "Crowbar"
+    ],
+    "LockOnContainerRaidToolTimeSeconds": 45,
+    "LockOnContainerRaidToolCycles": 1,
+    "LockOnContainerRaidToolDamagePercent": 100.0,
+    "Schedule": [
+        {
+            "Weekday": "Sunday",
+            "StartHour": 0,
+            "StartMinute": 0,
+            "DurationMinutes": 1440
+        },
+        {
+            "Weekday": "Monday",
+            "StartHour": 0,
+            "StartMinute": 0,
+            "DurationMinutes": 1440
+        },
+        {
+            "Weekday": "Tuesday",
+            "StartHour": 0,
+            "StartMinute": 0,
+            "DurationMinutes": 1440
+        },
+        {
+            "Weekday": "Wednesday",
+            "StartHour": 0,
+            "StartMinute": 0,
+            "DurationMinutes": 1440
+        },
+        {
+            "Weekday": "Thursday",
+            "StartHour": 0,
+            "StartMinute": 0,
+            "DurationMinutes": 1440
+        },
+        {
+            "Weekday": "Friday",
+            "StartHour": 0,
+            "StartMinute": 0,
+            "DurationMinutes": 1440
+        },
+        {
+            "Weekday": "Saturday",
+            "StartHour": 0,
+            "StartMinute": 0,
+            "DurationMinutes": 1440
+        }
+    ]
+}

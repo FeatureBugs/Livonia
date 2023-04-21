@@ -1,0 +1,352 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BACKPACKS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "childbag_red",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "childbag_blue",
+                "childbag_green"
+            ]
+        },
+        {
+            "ClassName": "childbag_green",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "drybag_orange",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "drybag_yellow",
+                "drybag_blue",
+                "drybag_black",
+                "drybag_red",
+                "drybag_green"
+            ]
+        },
+        {
+            "ClassName": "drybag_green",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "taloonbag_blue",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "taloonbag_orange",
+                "taloonbag_violet",
+                "taloonbag_green"
+            ]
+        },
+        {
+            "ClassName": "taloonbag_green",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 140,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "assaultbag_black",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "assaultbag_green",
+                "assaultbag_ttsko"
+            ]
+        },
+        {
+            "ClassName": "assaultbag_ttsko",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 260,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "huntingbag",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 260,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "HuntingBag_Hannah"
+            ]
+        },
+        {
+            "ClassName": "tortillabag",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 360,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "expansiondeserttortilla"
+            ]
+        },
+        {
+            "ClassName": "coyotebag_brown",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "coyotebag_green",
+                "expansioncoyoteblack"
+            ]
+        },
+        {
+            "ClassName": "mountainbag_red",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mountainbag_blue",
+                "mountainbag_orange",
+                "mountainbag_green"
+            ]
+        },
+        {
+            "ClassName": "alicebag_green",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "alicebag_black",
+                "alicebag_camo"
+            ]
+        },
+        {
+            "ClassName": "alicebag_camo",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Pack_OD",
+            "MaxPriceThreshold": 2550,
+            "MinPriceThreshold": 2550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Pack_Tan",
+                "MVS_Pack_Black",
+                "MVS_Pack_Snow",
+                "MVS_Pack_ERDL",
+                "MVS_Pack_Multicam",
+                "MVS_Pack_Multicam_Tropic",
+                "MVS_Pack_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Assault_Pack_OD",
+            "MaxPriceThreshold": 2850,
+            "MinPriceThreshold": 2850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Assault_Pack_Tan",
+                "MVS_Assault_Pack_Black",
+                "MVS_Assault_Pack_Snow",
+                "MVS_Assault_Pack_ERDL",
+                "MVS_Assault_Pack_Multicam",
+                "MVS_Assault_Pack_Multicam_Tropic",
+                "MVS_Assault_Pack_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Radio_Pack_OD",
+            "MaxPriceThreshold": 4850,
+            "MinPriceThreshold": 4850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Radio_Pack_Tan",
+                "MVS_Radio_Pack_Black",
+                "MVS_Radio_Pack_Snow",
+                "MVS_Radio_Pack_ERDL",
+                "MVS_Radio_Pack_Multicam",
+                "MVS_Radio_Pack_Multicam_Tropic",
+                "MVS_Radio_Pack_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Compact_1_OD",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Compact_1_Tan",
+                "MVS_Compact_1_Black",
+                "MVS_Compact_1_Snow",
+                "MVS_Compact_1_ERDL",
+                "MVS_Compact_1_Multicam",
+                "MVS_Compact_1_Multicam_Tropic",
+                "MVS_Compact_1_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Compact_2_OD",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Compact_2_Tan",
+                "MVS_Compact_2_Black",
+                "MVS_Compact_2_Snow",
+                "MVS_Compact_2_ERDL",
+                "MVS_Compact_2_Multicam",
+                "MVS_Compact_2_Multicam_Tropic",
+                "MVS_Compact_2_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_SlingPack_OD",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 45000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_SlingPack__Tan",
+                "MVS_SlingPack__Black",
+                "MVS_SlingPack__Snow",
+                "MVS_SlingPack__ERDL",
+                "MVS_SlingPack__Multicam",
+                "MVS_SlingPack__Multicam_Tropic",
+                "MVS_SlingPack__Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MMG_assault_pack_olive",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 45000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_assault_pack_black",
+                "MMG_assault_pack_tan",
+                "MMG_assault_pack_dark_woodland",
+                "MMG_assault_pack_erdl",
+                "MMG_assault_pack_multicam",
+                "MMG_assault_pack_multicamblack",
+                "MMG_assault_pack_alpine",
+                "MMG_assault_pack_ucp",
+                "MMG_assault_pack_mct",
+                "MMG_assault_pack_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_carrier_backpack_olive",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 45000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_carrier_backpack_black",
+                "MMG_carrier_backpack_tan",
+                "MMG_carrier_backpack_multicam",
+                "MMG_carrier_backpack_alpine",
+                "MMG_carrier_backpack_erdl",
+                "MMG_carrier_backpack_multicamblack",
+                "MMG_carrier_backpack_dark_woodland",
+                "MMG_carrier_backpack_ucp",		
+                "MMG_carrier_backpack_multicam_tropic",
+                "MMG_carrier_backpack_atacs"		
+            ]
+        }
+    ]
+}

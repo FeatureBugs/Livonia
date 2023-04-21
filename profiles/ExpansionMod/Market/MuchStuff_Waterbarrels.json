@@ -1,0 +1,76 @@
+{
+    "m_Version": 12,
+    "DisplayName": "WASSERBEHÄLTER",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Msp_WaterBarrel_Stand",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_WaterBarrel_Stand_Darkwood"
+            ]
+        },
+        {
+            "ClassName": "Msp_WaterBarrel",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_WaterBarrel_Plastic",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_WaterBarrel_Plastic_Yellow",
+                "Msp_WaterBarrel_Plastic_Green",
+                "Msp_WaterBarrel_Plastic_Red",
+                "Msp_WaterBarrel_Plastic_Black",
+                "Msp_WaterBarrel_Plastic_White"
+            ]
+        },
+        {
+            "ClassName": "Msp_WaterBarrel_Darkwood",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_WaterBarrel_Valve",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_WaterBarrel_Valve_Darkwood",
+                "Msp_WaterBarrel_Valve_Faucet"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "m_Version": 5,
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "ShowPlayerPosition": 1,
+    "ShowMapStats": 1,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 1,
+    "CanCreate3DMarker": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowDistanceOnPersonalMarkers": 1,
+    "EnableHUDGPS": 1,
+    "NeedGPSItemForKeyBinding": 1,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 1,
+    "ShowNameOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 1,
+    "ServerMarkers": [
+        {
+            "m_UID": "ServerMarker_Trader_Trader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Trader",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                7798.7900390625,
+                341.0589904785156,
+                10102.099609375
+            ],
+            "m_Locked": 0,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "ServerMarker_Trader_Helicopter",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Helicopter Trader",
+            "m_IconName": "Helicopter",
+            "m_Color": -13710223,
+            "m_Position": [
+                3993.76,
+                239.213,
+                10147.8
+            ],
+            "m_Locked": 0,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "ServerMarker_Trader_Schwarzmarkt",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Schwarzmarkt (Marker wird gelöscht)",
+            "m_IconName": "Trader",
+            "m_Color": -11716566,
+            "m_Position": [
+                7879.59,
+                238.559,
+                5623.91
+            ],
+            "m_Locked": 0,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "ServerMarker_Trader_Drogen_Dealer",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Drogen Dealer (Marker wird gelöscht)",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                5994.28,
+                470.141,
+                732.142
+            ],
+            "m_Locked": 0,
+            "m_Persist": 0
+        },
+        {
+            "m_UID": "ServerMarker_Trader_Jäger",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Jäger",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                2421.35,
+                301.993,
+                3817.62
+            ],
+            "m_Locked": 0,
+            "m_Persist": 0
+        }
+    ],
+    "EnableHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 1,
+    "NeedGPSItemForHUDCompass": 1,
+    "CompassColor": -1,
+    "CreateDeathMarker": 1,
+    "PlayerLocationNotifier": 1,
+    "CompassBadgesColor": -1946157056
+}

@@ -1,0 +1,35 @@
+{
+    "ConfigVersion": 18,
+    "ID": 1,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the location of the treasure",
+    "TimeLimit": -1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [],
+    "Loot": [
+        {
+            "Name": "Zucchini",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionBanknoteHryvnia",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0
+}

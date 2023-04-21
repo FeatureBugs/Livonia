@@ -1,0 +1,45 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 999999,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "Money_Euro1",
+        "Money_Euro2",
+        "Money_Euro5",
+        "Money_Euro10",
+        "Money_Euro20",
+        "Money_Euro50",
+        "Money_Euro100",
+        "Money_Euro200",
+        "Money_Euro500"
+    ],
+    "Categories": [
+        "Assault_Rifles",
+        "Submachine_Guns",
+        "Pistols",
+        "Sniper_Rifles",
+        "Shotguns",
+        "Crossbows",
+        "Melee_Weapons",
+        "Ammo",
+        "Knifes",
+        "Magazines:3",
+        "Muzzles:3",
+        "Bayonets:3",
+        "Optics:3",
+        "Buttstocks:3",
+        "Handguards:3"
+    ],
+    "Items": {
+        "universallight": 3,
+        "ammo_expansion_m203_smoke_white": 3,
+        "ammo_expansion_m203_sticky_smoke_teargas": 3,
+        "tlrlight": 3,
+        "ammo_expansion_m203_smoke_teargas": 3,
+        "flaregun": 1,
+        "ammo_expansion_m203_sticky_smoke_white": 3,
+        "expansionammolaw": 3
+    }
+}

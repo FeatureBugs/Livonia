@@ -1,0 +1,31 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Schwarzmarkt Waffen",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 999999,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "Money_Euro1",
+        "Money_Euro2",
+        "Money_Euro5",
+        "Money_Euro10",
+        "Money_Euro20",
+        "Money_Euro50",
+        "Money_Euro100",
+        "Money_Euro200",
+        "Money_Euro500"
+    ],
+    "Categories": [
+        "Sturmgewehereschwarzmarkt",
+        "Maschienengewehreschwarzmarkt",
+        "Schwarfschuetzengewehreschwarzmarkt",
+        "ArtyStrikeSchwarzmarkt",
+        "Magazines:3",
+        "Muzzles:3",
+        "Bayonets:3",
+        "Optics:3",
+        "Buttstocks:3",
+        "Handguards:3"
+    ],
+    "Items": {}
+}

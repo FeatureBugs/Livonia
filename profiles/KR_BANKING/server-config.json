@@ -1,0 +1,125 @@
+{
+    "ModVersion": "2.11",
+    "MenuDelay": 1.0,
+    "startCurrency": 15000,
+    "maxCurrency": 50000000,
+    "IsClanAccountActive": 1,
+    "CostsToCreateClan": 500000,
+    "CostsToInviteAnPlayer": 5000,
+    "MaxClanAccountLimit": 50000000,
+    "MaxPlayersInClan": -1,
+    "MinAmountToTransfer": 1000,
+    "TransferfeesInProcent": 3,
+    "IsRobEventActive": 1,
+    "MinPlayersForRob": 5,
+    "MinMoneyForRob": 50000,
+    "MaxMoneyForRob": 200000,
+    "TimeInSecToRobATM": 600,
+    "RobMessagesActive": 1,
+    "PayCheckValue": 3000,
+    "PayCheckTickTime": 60,
+    "IsPayCheckMessageActive": 1,
+    "CanAddPayCheckInSafezone": 1,
+    "PayCheckMessage": "%Amount% wurde auf dein Konto überwiesen! Bleib weiter aktiv!",
+    "MinPlayersForPayCheck": 1,
+    "CanAddToFullAcc": 0,
+    "NeedsBankCardToOpenMenu": 0,
+    "m_LoggingSettings": {
+        "m_LogMode": 1,
+        "m_LogDepositOwnBank": 1,
+        "m_LogWithdraw": 1,
+        "m_LogClanDeposit": 1,
+        "m_LogClanWithdraw": 1,
+        "m_LogCreateClanAccount": 1,
+        "m_LogDeleteClanAccount": 1,
+        "m_LogInviteMember": 1,
+        "m_LogUpdatePermission": 1
+    },
+    "m_DiscordWebhook": {
+        "m_UseWebhook": 0,
+        "m_WebhookURL": "",
+        "m_LogDepositToDiscord": 0,
+        "m_LogWithdrawToDiscord": 0,
+        "m_LogClanDepositToDiscord": 0,
+        "m_LogClanWithdrawToDiscord": 0,
+        "m_LogClanCreateToDiscord": 0,
+        "m_LogClanInviteMemberToDiscord": 0,
+        "m_LogClanRemoveMemberToDiscord": 0,
+        "m_LogClanUpdatePermissionToDiscord": 0,
+        "m_LogClanKickMemberToDiscord": 0,
+        "m_AdminLogUpdateServerConfig": 0,
+        "m_AdminLogUpdatePlayerData": 0,
+        "m_AdminLogUpdateClanData": 0,
+        "m_AdminLogUseMisc": 0
+    },
+    "ATM": [
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                3689.35009765625,
+                402.0119934082031,
+                5988.02001953125
+            ],
+            "Direction": [
+                -110.0,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        },
+        {
+            "ATMSName": "KR_ATMBlack",
+            "Position": [
+                11475.599609375,
+                342.9840087890625,
+                11320.0
+            ],
+            "Direction": [
+                210.0,
+                0.0,
+                0.0
+            ],
+            "CanBeRobbed": 0,
+            "RobMessage": ""
+        }
+    ],
+    "BankingCurrency": [
+        {
+            "CurrencyName": "Money_Euro500",
+            "CurrencyValue": 500
+        },
+        {
+            "CurrencyName": "Money_Euro200",
+            "CurrencyValue": 200
+        },
+        {
+            "CurrencyName": "Money_Euro100",
+            "CurrencyValue": 100
+        },
+        {
+            "CurrencyName": "Money_Euro50",
+            "CurrencyValue": 50
+        },
+        {
+            "CurrencyName": "Money_Euro20",
+            "CurrencyValue": 20
+        },
+        {
+            "CurrencyName": "Money_Euro10",
+            "CurrencyValue": 10
+        },
+        {
+            "CurrencyName": "Money_Euro5",
+            "CurrencyValue": 5
+        },
+        {
+            "CurrencyName": "Money_Euro2",
+            "CurrencyValue": 2
+        },
+        {
+            "CurrencyName": "Money_Euro1",
+            "CurrencyValue": 1
+        }
+    ]
+}

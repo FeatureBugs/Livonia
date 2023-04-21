@@ -1,0 +1,603 @@
+{
+    "m_Version": 4,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 1,
+    "EnableServerRulesTab": 1,
+    "EnableTerritoryTab": 1,
+    "EnableBookMenu": 1,
+    "CreateBookmarks": 0,
+    "ShowHaBStats": 1,
+    "ShowPlayerFaction": 0,
+    "RuleCategories": [
+        {
+            "CategoryName": "[GER] Server",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.",
+                    "RuleText": "Es ist nicht erlaubt Grauzonen im Regelwerk sowie Spielmechaniken zum eigenen Vorteil zu nutzen."
+                },
+                {
+                    "RuleParagraph": "2.",
+                    "RuleText": "Nicknamen dürfen nicht von anderen Spielern kopiert werden."
+                },
+                {
+                    "RuleParagraph": "3.",
+                    "RuleText": "Cheating, Dumping, Moonwalk oder anderes Bug-using ist verboten."
+                },
+                {
+                    "RuleParagraph": "4.",
+                    "RuleText": "Mehrere Accounts sind nicht erlaubt! (1 Account pro Spieler)."
+                },
+                {
+                    "RuleParagraph": "5.",
+                    "RuleText": "Es gibt nur dann Autosupport, wenn ein Videobeweis vorhanden ist, wie es zu der Situation gekommen ist. Durch den Server verursachter Verlust. (Fahrfehler sind ausgenommen). Screenshots sind hier nicht zulässig, ausschließlich Video."
+                },
+                {
+                    "RuleParagraph": "6.",
+                    "RuleText": "Die Maximalgröße eines Clans ist bei 8 Personen. Diese müssen sich kenntlich machen, indem sie vor Ihre Namen im Spiel ein Clankürzen in [ ] setzen. Das kürzen darf max. 5 Zeichen haben. Beispiel: Clanname MusterClan2 -> Kürzel = [MC2]."
+                },
+                {
+                    "RuleParagraph": "7.",
+                    "RuleText": "Musik Abspielen ist in der Safezone verboten."
+                },
+                {
+                    "RuleParagraph": "8.",
+                    "RuleText": "Das Stehlen von Items oder Fahrzeugen, ist in der Safezone verboten."
+                },
+                {
+                    "RuleParagraph": "9.",
+                    "RuleText": "Fahrzeuge dürfen nur zum Be- und Entladen in einer Safe-Zone geparkt werden."
+                },
+                {
+                    "RuleParagraph": "10.",
+                    "RuleText": "Fahrzeuge müssen, in einer Safe-Zone, auf den dafür vorgesehenen Flächen geparkt werden."
+                },
+                {
+                    "RuleParagraph": "11.",
+                    "RuleText": "Fahrzeughändler müssen umgehend freigeräumt werden und dürfen nicht zugeparkt werden."
+                },
+                {
+                    "RuleParagraph": "12.",
+                    "RuleText": "Alle nicht genutzten Fahrzeuge verschwinden nach zwei Woche."
+                },
+                {
+                    "RuleParagraph": "13.",
+                    "RuleText": "Der Umgang mit anderen Spielern, sollte stets freundlich sein. Verbale Angriffe gegen andere Spieler, sind strengstens untersagt. Ein gesundes Triggern oder Sticheleinen gehören zu Dayz dazu. Bitte erstellt wegen Kleinigkeiten kein Ticket."
+                },
+                {
+                    "RuleParagraph": "14.",
+                    "RuleText": "Nach dem ein Secretroom gelootet wurde, muss dieser SOFORT verlassen werden. Der Raum verschließt sich nach gewisser Zeit von selbst. Solltet ihr in dem Raum gefangen sein, kommt ihr nur durch einen Suizid wieder raus. Hierbei gibt es keine Unterstützung durch den Support."
+                },
+                {
+                    "RuleParagraph": "15.",
+                    "RuleText": "Combatlog ist verboten! (5 Minuten nach dem letzten Kontakt/Hitmarker). Dies gilt für beide Partein in einem Combat."
+                }
+            ]
+        },
+        {
+            "CategoryName": "[GER] Raiding",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.",
+                    "RuleText": "Das Ausnutzen von Glitches, um in eine Base zu kommen, ist verboten."
+                },
+                {
+                    "RuleParagraph": "2.",
+                    "RuleText": "Es dürfen keine Watchtower oder Zelte zum raiden genutzt werden."
+                },
+                {
+                    "RuleParagraph": "3.",
+                    "RuleText": "Es ist nicht erlaubt, sich während des Raids in seiner Base auszuloggen."
+                },
+                {
+                    "RuleParagraph": "4.",
+                    "RuleText": "Die Eingänge einer Base dürfen nicht zugebaut werden."
+                },
+                {
+                    "RuleParagraph": "5.",
+                    "RuleText": "Für Erstattungen bei einem nicht regelkonformen Baseraid, müssen Videos/Screenshots von der Base und dem Inventar vorhanden sein."
+                }
+            ]
+        },
+        {
+            "CategoryName": "[GER] Basebau",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.",
+                    "RuleText": "In und an Gebäuden mit Militär Loot darf nicht gebaut werden."
+                },
+                {
+                    "RuleParagraph": "2.",
+                    "RuleText": "Maximalgröße von Basen ist 3x5x5 sein. 3 hoch und 5 breit/lang. Ausgenommen davon sind Watchtower."
+                },
+                {
+                    "RuleParagraph": "3.",
+                    "RuleText": "Watchtower dürfen maximal 5 Stockwerke hoch sein, und dürfen nicht auf Map eigenen Dächern oder Gebäuden gebaut werden. Dieser darf nur. 1x1 sein. Maximal 2 Stück davon. Diese müssen an die Basis angefügt oder integriert sein und dürfen kein Code-Lock besitzen."
+                },
+                {
+                    "RuleParagraph": "4.",
+                    "RuleText": "Auf Map eigenen Dächern darf max. 1 Wand hoch gebaut werden (diese dürfen auch mit einem Roof zugebaut werden). Hier sind keine Watchtower erlaubt"
+                },
+                {
+                    "RuleParagraph": "5.",
+                    "RuleText": "Alle Basen müssen den Boden berühren. Nutzt Fundamente und baut realistisch."
+                },
+                {
+                    "RuleParagraph": "6.",
+                    "RuleText": "Jede Basis muss einen Mindestabstand von 1000 Metern zu jedem Trader haben."
+                },
+                {
+                    "RuleParagraph": "7.",
+                    "RuleText": "Es dürfen max. 10 Code-Locks in der Basis benutzt werden."
+                },
+                {
+                    "RuleParagraph": "8.",
+                    "RuleText": "Jede Base muss Raidbar sein. Wände vor Türen zu bauen ist nicht erlaubt."
+                }
+            ]
+        },
+        {
+            "CategoryName": "[EN] Server",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.",
+                    "RuleText": "It is not allowed to use grey areas in the rulebook as well as game mechanics for own advantage."
+                },
+                {
+                    "RuleParagraph": "2.",
+                    "RuleText": "You are not allowed to copy nicknames from other players."
+                },
+                {
+                    "RuleParagraph": "3.",
+                    "RuleText": "Cheating, dumping, moonwalk or other bug-using is forbidden."
+                },
+                {
+                    "RuleParagraph": "4.",
+                    "RuleText": "Multiple accounts are not allowed! (1 account per player)."
+                },
+                {
+                    "RuleParagraph": "5.",
+                    "RuleText": "There is only autosupport if there is video evidence of how the situation happened. Loss caused by the server. (Driving errors are excluded). Screenshots are not allowed here, video only."
+                },
+                {
+                    "RuleParagraph": "6.",
+                    "RuleText": "The maximum size of a clan is 8 Member. These must make themselves recognizable by putting their clan Tag in [ ] in front of their names in the game. Dont use more then 5 characters. Example: Clanname TemplateClan2 -> abbreviation = [TC2]."
+                },
+                {
+                    "RuleParagraph": "7.",
+                    "RuleText": "Playing music is forbidden in the safezone."
+                },
+                {
+                    "RuleParagraph": "8.",
+                    "RuleText": "Stealing any items or vehicles is forbidden in the safezone!"
+                },
+                {
+                    "RuleParagraph": "9.",
+                    "RuleText": "All kinds of vehicle may only be parked in a safe zone for loading and unloading."
+                },
+                {
+                    "RuleParagraph": "10.",
+                    "RuleText": "In Safezones vehicles must be parked on the foreseen parkingspaces."
+                },
+                {
+                    "RuleParagraph": "11.",
+                    "RuleText": "Vehicle dealers must be cleared immediately and must not be parked on."
+                },
+                {
+                    "RuleParagraph": "12.",
+                    "RuleText": "All unused vehicles will despawn after two weeks."
+                },
+                {
+                    "RuleParagraph": "13.",
+                    "RuleText": "The contact with other players, should always be friendly. Verbal attacks against other players are strictly prohibited. A healthy teasing belongs to Dayz. Please do not create a ticket because of trivialities."
+                },
+                {
+                    "RuleParagraph": "14.",
+                    "RuleText": "After a secretroom has been looted, it must be left IMMEDIATELY. The room will lock itself after a certain amount of time. If you are trapped in the room, you can only get out by suicide. There is no support for this."
+                },
+                {
+                    "RuleParagraph": "15.",
+                    "RuleText": "Combatlog is forbidden! (5 minutes after the last contact/hitmarker). This applies to both parties in a Combat."
+                }
+            ]
+        },
+        {
+            "CategoryName": "[EN] Raiding",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.",
+                    "RuleText": "Taking advantage of glitches to get into a base is forbidden."
+                },
+                {
+                    "RuleParagraph": "2.",
+                    "RuleText": "No watchtowers or tents may be used for raiding."
+                },
+                {
+                    "RuleParagraph": "3.",
+                    "RuleText": "It is not allowed to log out of base during the raid."
+                },
+                {
+                    "RuleParagraph": "4.",
+                    "RuleText": "The entrances of a base may not be blocked."
+                },
+                {
+                    "RuleParagraph": "5.",
+                    "RuleText": "For refunds in case of non-compliant base raid, videos/screenshots of the base and inventory must be available."
+                }
+            ]
+        },
+        {
+            "CategoryName": "[EN] Basebuilding",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.",
+                    "RuleText": "Building is prohibited in and around Buildings that contain military Loot"
+                },
+                {
+                    "RuleParagraph": "2.",
+                    "RuleText": "Maximum size of bases is to be 3x5x5. 3 high and 5 wide/long. Watchtowers are excluded from this."
+                },
+                {
+                    "RuleParagraph": "3.",
+                    "RuleText": "Watchtowers may be a maximum of 5 stories high, and may not be built on Map's own roofs or buildings. This may only be 1x1. Maximum 2 of them. These must be attached or integrated to the base and may not have a code lock."
+                },
+                {
+                    "RuleParagraph": "4.",
+                    "RuleText": "One wall high may be built on map own roofs (these may also be covered with a roof). Watchtowers are not allowed here."
+                },
+                {
+                    "RuleParagraph": "5.",
+                    "RuleText": "All bases must touch the ground. Use foundations and build realistically."
+                },
+                {
+                    "RuleParagraph": "6.",
+                    "RuleText": "Each base must have a minimum distance of 1000 meters to any trader."
+                },
+                {
+                    "RuleParagraph": "7.",
+                    "RuleText": "10 code locks max. may be used in the Base."
+                },
+                {
+                    "RuleParagraph": "8.",
+                    "RuleText": "Every base must be raidable. Building walls in front of doors is not allowed."
+                }
+            ]
+        }
+    ],
+    "DisplayServerSettingsInServerInfoTab": 1,
+    "SettingCategories": [
+        {
+            "CategoryName": "Base-Building Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Raid Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Map Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Party Einstellugen",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Territory Einstellungen",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        }
+    ],
+    "Links": [
+        {
+            "Name": "Homepage",
+            "URL": "https://discord.gg/jrYauHwvRm",
+            "IconName": "Homepage",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Feedback",
+            "URL": "https://discord.gg/jrYauHwvRm",
+            "IconName": "Forums",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Discord",
+            "URL": "https://discord.gg/jrYauHwvRm",
+            "IconName": "Discord",
+            "IconColor": -9270822
+        },
+        {
+            "Name": "Patreon",
+            "URL": "https://discord.gg/jrYauHwvRm",
+            "IconName": "Patreon",
+            "IconColor": -432044
+        },
+        {
+            "Name": "Steam",
+            "URL": "",
+            "IconName": "Steam",
+            "IconColor": -14006434
+        },
+        {
+            "Name": "Reddit",
+            "URL": "",
+            "IconName": "Reddit",
+            "IconColor": -12386303
+        },
+        {
+            "Name": "GitHub",
+            "URL": "",
+            "IconName": "GitHub",
+            "IconColor": -16777216
+        },
+        {
+            "Name": "YouTube",
+            "URL": "",
+            "IconName": "YouTube",
+            "IconColor": -65536
+        },
+        {
+            "Name": "Twitter",
+            "URL": "",
+            "IconName": "Twitter",
+            "IconColor": -14835214
+        }
+    ],
+    "Descriptions": [
+        {
+            "CategoryName": "[GER] Allgemeine Info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Alle Regeln und Spielweisen stehen im Regelwerk und in Discord. Admins und Supporter haben nur dann die Möglichkeit mehr Rechte zu benutzen, wenn sie mit dem Kürzen (ADMIN oder SUPPORTER) vor dem Namen auf den Server kommen. Nur im Supportfall, wird der Spieler so auf dem Server zu finden sein."
+                }
+            ]
+        },
+        {
+            "CategoryName": "[GER] Probleme?",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Für jegliche Art von Problemen, kannst du ein Ticket im Discord erstellen. Ein Supporter oder Admin wird dir dann helfen."
+                }
+            ]
+        },
+        {
+            "CategoryName": "[EN] General Info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Coming soon."
+                }
+            ]
+        },
+        {
+            "CategoryName": "[EN] Problems?",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Coming soon."
+                }
+            ]
+        }
+    ],
+    "CraftingCategories": [
+        {
+            "CategoryName": "Accessories",
+            "Results": [
+                "armband_",
+                "armband_white"
+            ]
+        },
+        {
+            "CategoryName": "Backpacks",
+            "Results": [
+                "courierbag",
+                "furcourierbag",
+                "furimprovisedbag",
+                "improvisedbag",
+                "leathersack_brown"
+            ]
+        },
+        {
+            "CategoryName": "Base-Building",
+            "Results": [
+                "expansionbarbedwirekit",
+                "fencekit",
+                "expansionfloorkit",
+                "expansionhelipadkit",
+                "expansionhescokit",
+                "expansionrampkit",
+                "shelterkit",
+                "expansionstairkit",
+                "territoryflagkit",
+                "expansionwallkit",
+                "watchtowerkit"
+            ]
+        },
+        {
+            "CategoryName": "Camouflage",
+            "Results": [
+                "camonet",
+                "ghillieatt_tan",
+                "ghillieatt_mossy",
+                "ghillieatt_woodland",
+                "ghilliebushrag_tan",
+                "ghilliebushrag_mossy",
+                "ghilliebushrag_woodland",
+                "ghilliehood_tan",
+                "ghilliehood_mossy",
+                "ghilliehood_woodland",
+                "ghilliesuit_tan",
+                "ghilliesuit_mossy",
+                "ghilliesuit_woodland",
+                "ghillietop_tan",
+                "ghillietop_mossy",
+                "ghillietop_woodland"
+            ]
+        },
+        {
+            "CategoryName": "Cooking",
+            "Results": [
+                "fireplace",
+                "firewood",
+                "handdrillkit"
+            ]
+        },
+        {
+            "CategoryName": "Fishing",
+            "Results": [
+                "bait",
+                "bonebait",
+                "bonehook",
+                "improvisedfishingrod"
+            ]
+        },
+        {
+            "CategoryName": "Food",
+            "Results": [
+                "carpfilletmeat",
+                "mackerelfilletmeat",
+                "expansionmilkbottle",
+                "potato",
+                "slicedpumpkin"
+            ]
+        },
+        {
+            "CategoryName": "Horticulture",
+            "Results": [
+                "pepperseeds",
+                "pumpkinseeds",
+                "tomatoseeds",
+                "zucchiniseeds"
+            ]
+        },
+        {
+            "CategoryName": "Lights",
+            "Results": [
+                "longtorch",
+                "torch"
+            ]
+        },
+        {
+            "CategoryName": "Medical Supplies",
+            "Results": [
+                "bloodbagiv",
+                "salinebagiv",
+                "splint"
+            ]
+        },
+        {
+            "CategoryName": "Melee Weapons",
+            "Results": [
+                "nailedbaseballbat",
+                "stoneknife"
+            ]
+        },
+        {
+            "CategoryName": "Storage",
+            "Results": [
+                "woodencrate"
+            ]
+        },
+        {
+            "CategoryName": "Supplies",
+            "Results": [
+                "boarpelt",
+                "burlapsack",
+                "burlapstrip",
+                "longwoodenstick",
+                "expansionlumber1",
+                "expansionlumber1_5",
+                "expansionlumber3",
+                "nails",
+                "netting",
+                "rag",
+                "rope",
+                "sharpwoodenstick",
+                "smallstone",
+                "tannedleather",
+                "woodenplank",
+                "woodenstick"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Attachments",
+            "Results": [
+                "improvisedsuppressor"
+            ]
+        }
+    ]
+}

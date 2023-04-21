@@ -1,0 +1,249 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_VESTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "reflexvest",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "policevest",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "pressvest_blue",
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 170,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "pressvest_lightblue"
+            ]
+        },
+        {
+            "ClassName": "pressvest_lightblue",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 180,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ukassvest_black",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 180,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ukassvest_khaki",
+                "ukassvest_olive",
+                "ukassvest_camo"
+            ]
+        },
+        {
+            "ClassName": "ukassvest_camo",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "smershvest",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "highcapacityvest_black",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "highcapacityvest_olive"
+            ]
+        },
+        {
+            "ClassName": "highcapacityvest_olive",
+            "MaxPriceThreshold": 460,
+            "MinPriceThreshold": 460,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "platecarriervest",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "PlateCarrierVest_Black",
+                "PlateCarrierVest_Camo",
+                "PlateCarrierVest_Green"
+            ]
+        },
+        {
+            "ClassName": "huntingvest",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_ChestRig_OD",
+            "MaxPriceThreshold": 2350,
+            "MinPriceThreshold": 2350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_ChestRig_Tan",
+                "MVS_ChestRig_Black",
+                "MVS_ChestRig_Snow",
+                "MVS_ChestRig_ERDL",
+                "MVS_ChestRig_Multicam",
+                "MVS_ChestRig_Multicam_Tropic",
+                "MVS_ChestRig_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Combat_Vest_OD",
+            "MaxPriceThreshold": 2050,
+            "MinPriceThreshold": 2050,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Combat_Vest_Tan",
+                "MVS_Combat_Vest_Black",
+                "MVS_Combat_Vest_Snow",
+                "MVS_Combat_Vest_ERDL",
+                "MVS_Combat_Vest_Multicam",
+                "MVS_Combat_Vest_Multicam_Tropic",
+                "MVS_Combat_Vest_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "mmg_chestrig_green",
+            "MaxPriceThreshold": 2350,
+            "MinPriceThreshold": 2350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_chestrig_black",
+                "mmg_chestrig_tan",
+                "mmg_chestrig_erdl",
+                "mmg_chestrig_multicam",
+                "mmg_chestrig_multicamblack",
+                "mmg_chestrig_alpine",
+                "mmg_chestrig_dark_woodland",
+                "mmg_chestrig_ucp",
+                "mmg_chestrig_multicam_tropic",
+                "mmg_chestrig_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_JPC_Vest_olive",
+            "MaxPriceThreshold": 2350,
+            "MinPriceThreshold": 2350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_JPC_Vest_Black",
+                "MMG_JPC_Vest_tan",
+                "MMG_JPC_Vest_multicam",
+                "MMG_JPC_Vest_alpine",
+                "MMG_JPC_Vest_erdl",
+                "MMG_JPC_Vest_multicamblack",
+                "MMG_JPC_Vest_multicam_tropic",
+                "MMG_JPC_Vest_ucp",
+                "MMG_JPC_Vest_dark_woodland",
+                "MMG_JPC_Vest_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_JPC_Vest_olive",
+            "MaxPriceThreshold": 2350,
+            "MinPriceThreshold": 2350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_tt_vest_black",
+                "MMG_tt_vest_tan",
+                "MMG_tt_vest_mutlicam",
+                "MMG_tt_vest_alpine",
+                "MMG_tt_vest_erdl",
+                "MMG_tt_vest_multicamblack",
+                "MMG_tt_vest_dark_woodland",
+                "MMG_tt_vest_ucp",
+                "MMG_tt_vest_police",
+                "MMG_tt_vest_multicam_tropic",
+                "MMG_tt_vest_atacs",
+                "MMG_tt_vest_admin"
+            ]
+        }
+    ]
+}

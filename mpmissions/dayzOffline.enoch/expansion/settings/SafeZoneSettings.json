@@ -1,0 +1,29 @@
+{
+    "m_Version": 8,
+    "Enabled": 1,
+    "FrameRateCheckSafeZoneInMs": 0,
+    "CircleZones": [
+        {
+            "Center": [
+                7798.7900390625,
+                341.0589904785156,
+                10102.099609375
+            ],
+            "Radius": 130.0
+        },
+        {
+            "Center": [
+                2413.43994140625,
+                300.8429260253906,
+                3816.929931640625
+            ],
+            "Radius": 50.0
+        }
+    ],
+    "PolygonZones": [],
+    "ActorsPerTick": 5,
+    "DisableVehicleDamageInSafeZone": 1,
+    "EnableForceSZCleanup": 1,
+    "ItemLifetimeInSafeZone": 900.0,
+    "ForceSZCleanup_ExcludedItems": []
+}

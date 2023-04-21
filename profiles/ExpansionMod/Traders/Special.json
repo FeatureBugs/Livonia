@@ -1,0 +1,33 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPECIAL",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 999999,
+    "TraderIcon": "Grenade",
+    "Currencies": [
+        "Money_Euro1",
+        "Money_Euro2",
+        "Money_Euro5",
+        "Money_Euro10",
+        "Money_Euro20",
+        "Money_Euro50",
+        "Money_Euro100",
+        "Money_Euro200",
+        "Money_Euro500"
+    ],
+    "Categories": [
+        "Explosives_And_Grenades",
+        "m97werfer"
+    ],
+    "Items": {
+        "nvgoggles": 1,
+        "ammo_expansion_m203_smoke_white": 1,
+        "nvgheadstrap": 1,
+        "ammo_expansion_m203_sticky_smoke_teargas": 1,
+        "ammo_expansion_m203_smoke_teargas": 1,
+        "rangefinder": 1,
+        "battery9v": 1,
+        "Expansion_M79": 1,
+        "ammo_expansion_m203_sticky_smoke_white": 1
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_MASKS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "surgicalmask",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "nioshfacemask",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "hockeymask",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "balaclavamask_beige",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "balaclavamask_blue",
+                "balaclavamask_pink",
+                "balaclavamask_white",
+                "balaclavamask_blackskull",
+                "balaclavamask_black",
+                "balaclavamask_green"
+            ]
+        },
+		{
+            "ClassName": "MimeMask_Male",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MimeMask_Female"
+            ]
+        },
+        {
+            "ClassName": "MMG_facemask_green",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_facemask_black",
+                "MMG_facemask_tan",
+                "MMG_facemask_alpine",
+                "MMG_facemask_erdl",
+                "MMG_facemask_multicamblack",
+                "MMG_facemask_multicam",
+                "MMG_facemask_dark_woodland",
+                "MMG_facemask_ucp",
+                "MMG_facemask_multicam_tropic",
+                "MMG_facemask_atacs",
+                "MMG_facemask_skull",
+                "MMG_facemask_joker"
+            ]
+        },
+        {
+            "ClassName": "MMG_balaclava_olive",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_balaclava_black",
+                "MMG_balaclava_tan",
+                "MMG_balaclava_erdl",
+                "MMG_balaclava_alpine",
+                "MMG_balaclava_multicamblack",
+                "MMG_balaclava_multicam",
+                "MMG_balaclava_dark_woodland",
+                "MMG_balaclava_admin",
+                "MMG_balaclava_ucp",
+                "MMG_balaclava_multicam_tropic",
+                "MMG_balaclava_atacs"
+            ]
+        }
+    ]
+}

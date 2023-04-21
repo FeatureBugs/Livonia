@@ -1,0 +1,90 @@
+{
+    "m_ModVersion": "2.0",
+    "m_CaptureTime": 900.0,
+    "m_UpdateInterval": 4.0,
+    "m_ServerStartDelay": 600.0,
+    "m_HillEventInterval": 1500.0,
+    "m_EventCleanupTime": 1800.0,
+    "m_EventPreStart": 200.0,
+    "m_EveryEventCooldown": 100.0,
+    "m_EventPreStartMessage": "A Hill is spawning at %location% in %mintes% Minutes",
+    "m_EventCapturedMessage": "Hill at %location% has been captured by %winner%",
+    "m_EventDespawnedMessage": "Sorry, the Hill at %location% has despawned",
+    "m_EventStartMessage": "A Hill has spawned at %location%",
+    "m_DoLogsToCF": 1,
+    "m_PlayerPopulationToStartEvents": 1,
+    "m_MaxEvents": 2,
+    "m_FlagName": "bldr_flag_chernarus_wall",
+    "m_Creatures": [
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_usSoldier_normal_Desert",
+        "Animal_UrsusArctos"
+    ],
+    "m_HillLocations": [
+        {
+            "Name": "Unkown Map",
+            "Radius": 0.0,
+            "CaptureRadius": 0.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "AISpawnCount": 0,
+            "ObjectListName": "none",
+            "LootTier": 0
+        },
+        {
+            "Name": "Unkown Map Another Example",
+            "Radius": 0.0,
+            "CaptureRadius": 0.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "AISpawnCount": 0,
+            "ObjectListName": "none",
+            "LootTier": 0
+        }
+    ],
+    "m_RewardPools": [
+        {
+            "RewardContainerName": "KingOfTheHillRewardChest",
+            "m_Rewards": [
+                {
+                    "ItemName": "M4A1",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "ACOGOptic",
+                        "M4_Suppressor",
+                        "M4_CQBBttstck_Black",
+                        "M4_RISHndgrd_Black"
+                    ]
+                },
+                {
+                    "ItemName": "M4A1",
+                    "Quantity": 1,
+                    "Attachments": [
+                        "Mag_STANAG_30Rnd",
+                        "ACOGOptic",
+                        "M4_Suppressor",
+                        "M4_CQBBttstck_Black",
+                        "M4_RISHndgrd_Black"
+                    ]
+                }
+            ],
+            "m_LootTier": 1,
+            "m_MaxWinningItems": 2,
+            "m_MinWinningItems": 1
+        }
+    ]
+}

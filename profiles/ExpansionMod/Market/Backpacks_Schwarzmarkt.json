@@ -1,0 +1,139 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Rucksäcke und Taschen",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 85.0,
+    "Items": [
+        {
+            "ClassName": "MMG_mmps_bag_green",
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_mmps_bag_black",
+                "MMG_mmps_bag_tan",
+                "MMG_mmps_bag_multicam",
+                "MMG_mmps_bag_multicam_tropic",
+                "MMG_mmps_bag_multicamblack",
+                "MMG_mmps_bag_dark_woodland",
+                "MMG_mmps_bag_erdl",
+                "MMG_mmps_bag_alpine",
+                "MMG_mmps_bag_ucp",
+                "MMG_mmps_bag_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_supplybag_green",
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_supplybag_black",		
+                "MMG_supplybag_tan",
+                "MMG_supplybag_alpine",
+                "MMG_supplybag_erdl",
+                "MMG_supplybag_multicamblack",
+                "MMG_supplybag_multicam",
+                "MMG_supplybag_dark_woodland",
+                "MMG_supplybag_ucp",
+                "MMG_supplybag_multicam_tropic",
+                "MMG_supplybag_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_mk5_utility_pouch_green",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_mk5_utility_pouch_black",
+                "MMG_mk5_utility_pouch_tan",
+                "MMG_mk5_utility_pouch_multicamblack",
+                "MMG_mk5_utility_pouch_multicam",
+                "MMG_mk5_utility_pouch_erdl",
+                "MMG_mk5_utility_pouch_alpine",
+                "MMG_mk5_utility_pouch_dark_woodland",
+                "MMG_mk5_utility_pouch_ucp",
+                "MMG_mk5_utility_pouch_multicam_tropic",
+                "MMG_mk5_utility_pouch_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_mk5_grenade_pouch_green",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_mk5_grenade_pouch_black",
+                "MMG_mk5_grenade_pouch_tan",
+                "MMG_mk5_grenade_pouch_multicamblack",
+                "MMG_mk5_grenade_pouch_multicam",
+                "MMG_mk5_grenade_pouch_alpine",
+                "MMG_mk5_grenade_pouch_erdl",
+                "MMG_mk5_grenade_pouch_dark_woodland",
+                "MMG_mk5_grenade_pouch_ucp",
+                "MMG_mk5_grenade_pouch_multicam_tropic",
+                "MMG_mk5_grenade_pouch_atacs"
+            ]
+        },
+        {
+            "ClassName": "MVS_Rucksack_OD",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 200000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Rucksack_Tan",
+                "MVS_Rucksack_Black",
+                "MVS_Rucksack_Snow",
+                "MVS_Rucksack_ERDL",
+                "MVS_Rucksack_Multicam",
+                "MVS_Rucksack_Multicam_Tropic",
+                "MVS_Rucksack_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MMG_camelback_green",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 200000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_camelback_tan",
+                "MMG_camelback_black",
+                "MMG_camelback_multicamblack",
+                "MMG_camelback_multicam",
+                "MMG_camelback_erdl",
+                "MMG_camelback_alpine",
+                "MMG_camelback_dark_woodland",
+                "MMG_camelback_ucp",
+                "MMG_camelback_multicam_tropic",
+                "MMG_camelback_atacs"
+            ]
+        }
+    ]
+}

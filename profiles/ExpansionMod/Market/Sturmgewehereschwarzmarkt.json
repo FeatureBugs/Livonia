@@ -1,0 +1,81 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "SNAFU_AK308",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GCGN_HK416",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HK416_Gun",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IA2_Gun",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Snafu_ScarH_Black_GUN",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Snafu_ScarH_DKMC_GUN",
+                "Snafu_ScarH_OD_GUN",
+                "Snafu_ScarH_Snow_GUN",
+                "Snafu_ScarH_Tan_GUN"
+            ]
+        },
+        {
+            "ClassName": "SNSA58_Gun",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

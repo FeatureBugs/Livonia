@@ -1,0 +1,112 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BELTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "civilianbelt",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarybelt",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Belt_OD",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Belt_Tan",
+                "MVS_Belt_Black",
+                "MVS_Belt_Snow",
+                "MVS_Belt_ERDL",
+                "MVS_Belt_Multicam",
+                "MVS_Belt_Multicam_Tropic",
+                "MVS_Belt_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MMG_falcon_b1_belt_olive",
+            "MaxPriceThreshold": 5500,
+            "MinPriceThreshold": 5500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_falcon_b1_belt_black",
+                "MMG_falcon_b1_belt_tan",
+                "MMG_falcon_b1_belt_alpine",
+                "MMG_falcon_b1_belt_erdl",
+                "MMG_falcon_b1_belt_multicamblack",
+                "MMG_falcon_b1_belt_multicam",
+                "MMG_falcon_b1_belt_dark_woodland",
+                "MMG_falcon_b1_belt_ucp",
+                "MMG_falcon_b1_belt_multicam_tropic",
+                "MMG_falcon_b1_belt_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_carbine_green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_carbine_red",
+                "MMG_carbine_orange",
+                "MMG_carbine_blue",
+                "MMG_carbine_black",
+                "MMG_carbine_grey"
+            ]
+        },
+        {
+            "ClassName": "MMG_sheath_olive",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_sheath_black",
+                "MMG_sheath_tan",
+                "MMG_sheath_mcb_digital",
+                "MMG_sheath_alpine",
+                "MMG_sheath_erdl",
+                "MMG_sheath_multicamblack",
+                "MMG_sheath_multicam",
+                "MMG_sheath_dark_woodland",
+                "MMG_sheath_ucp",
+                "MMG_sheath_atacs"
+            ]
+        }
+    ]
+}

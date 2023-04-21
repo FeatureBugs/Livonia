@@ -1,0 +1,73 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_VESTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_MK_V_Armor_green",
+            "MaxPriceThreshold": 335000,
+            "MinPriceThreshold": 335000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_MK_V_Armor_black",
+                "MMG_MK_V_Armor_tan",
+                "MMG_MK_V_Armor_multicamblack",
+                "MMG_MK_V_Armor_multicam",
+                "MMG_MK_V_Armor_alpine",
+                "MMG_MK_V_Armor_dark_woodland",
+                "MMG_MK_V_Armor_erdl",
+                "MMG_MK_V_Armor_ucp",
+                "MMG_MK_V_Armor_multicam_tropic",
+                "MMG_MK_V_Armor_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_MK_III_Armor_green",
+            "MaxPriceThreshold": 280000,
+            "MinPriceThreshold": 280000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_MK_III_Armor_black",
+                "MMG_MK_III_Armor_tan",
+                "MMG_MK_III_Armor_multicamblack",
+                "MMG_MK_III_Armor_multicam",
+                "MMG_MK_III_Armor_erdl",
+                "MMG_MK_III_Armor_alpine",
+                "MMG_MK_III_Armor_dark_woodland",
+                "MMG_MK_III_Armor_ucp",
+                "MMG_MK_III_Armor_multicam_tropic",
+                "MMG_MK_III_Armor_atacs"
+            ]
+        },
+        {
+            "ClassName": "MVS_Combat_Vest_Heavy_OD",
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
+            "SellPricePercent": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Combat_Vest_Heavy_Tan",
+                "MVS_Combat_Vest_Heavy_Black",
+                "MVS_Combat_Vest_Heavy_Snow",
+                "MVS_Combat_Vest_Heavy_ERDL",
+                "MVS_Combat_Vest_Heavy_Multicam",
+                "MVS_Combat_Vest_Heavy_Multicam_Tropic",
+                "MVS_Combat_Vest_Heavy_Multicam_Black"
+            ]
+        }
+    ]
+}

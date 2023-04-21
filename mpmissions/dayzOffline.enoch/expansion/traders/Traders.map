@@ -1,0 +1,29 @@
+// Haupthaendler
+
+//Kleidung
+ExpansionTraderDenis.Clothing|7829.41 340.133 10127.3|-121.442 0.0 0.0|FlatCap_BlackCheck,DressShoes_Brown,CivilianBelt,SlacksPants_Blue,ManSuit_Blue
+ExpansionTraderMaria.Clothing_Accessoires|7829.73 340.151 10124.8|-69.683 0.0 0.0|QuiltedJacket_Violet,Breeches_Beetcheck,SurgicalGloves_White,ThinFramesGlasses,BaseballCap_Pink,JoggingShoes_Violet,TaloonBag_Violet,Armband_Pink
+
+//Waffen
+ExpansionTraderNaomi.Weapons|7802.02 339.22 10078.9|104.018 0.0 0.0|HunterPants_Spring,HuntingJacket_Summer,Balaclava3Holes_Black,CowboyHat_black,CombatBoots_Green,MilitaryBelt,HuntingBag,Armband_Black
+ExpansionTraderEva.Attachments|7802.58 339.22 10080.9|108.099 0.0 0.0|CargoPants_Green,M65Jacket_Khaki,UKAssVest_Black,WorkingGloves_Black,AviatorGlasses,PilotkaCap,TTSKOBoots,AssaultBag_Black
+ExpansionTraderLinda.Special|7802.65 339.11 10071.1|45.0734 0.0 0.0|MilitaryBoots_Redpunk,SportGlasses_Orange,UKAssVest_Black,BomberJacket_Maroon,CargoPants_Black,RadarCap_Red
+
+//Fahrzeuge
+ExpansionTraderRolf.Vehicles|7776.64 339.22 10078.4|-148.707 0.0 0.0|SurgicalMask,WorkingBoots_Brown,BaseballCap_Beige,ReflexVest,QuiltedJacket_Grey,CargoPants_Grey
+ExpansionTraderKaito.Vehicle_Parts|7769.16 339.22 10077.8|125.874 0.0 0.0|SurgicalMask,WorkingBoots_Brown,BaseballCap_Beige,ReflexVest,QuiltedJacket_Grey,CargoPants_Grey
+ExpansionTraderJose.Spraycans|7772.85 339.22 10071|5.98445 0.0 0.0|TrackSuitPants_Red,TrackSuitJacket_Red,MilitaryBoots_Redpunk,BeanieHat_Red,NioshFaceMask,ChildBag_Red
+
+//Nahrung und Medizin
+ExpansionTraderJudy.Medicals|7796.0 339.54 10127.1|157.566 0.0 0.0|MilitaryBoots_Black,ParamedicPants_Crimson,SurgicalMask,SurgicalGloves_Green,ParamedicJacket_Crimson,ParamedicPants_Blue,MountainBag_Red
+ExpansionTraderQuinn.Consumables|7802.46 339.54 10127.4|-170.479 0.0 0.0|CargoPants_Black,Shirt_BlueCheckBright,SurgicalGloves_Blue,BaseballCap_Blue,AthleticShoes_Blue,CivilianBelt,DryBag_Blue
+
+//Werkzeuge und CO
+ExpansionTraderIrena.Tools|7825.75 339.54 10109.3|-9.17552 0.0 0.0|SurgicalMask,MilitaryBoots_Redpunk,SportGlasses_Orange,UKAssVest_Black,BomberJacket_Maroon,CargoPants_Black,RadarCap_Red
+ExpansionTraderNiki.BuildingSupplies|7830.97 339.567 10117.7|-136.764 0.0 0.0|ParamedicJacket_Blue,ParamedicPants_Blue,PoliceVest,NioshFaceMask,NBCGlovesGray,FlatCap_Blue,HikingBootsLow_Blue,MountainBag_Blue
+
+//Drogen Dealer
+ExpansionTraderQuinn.DorgenDealer|5996.95 469.055 740.894|178.405 0.0 0.0|CargoPants_Black,Shirt_BlueCheckBright,SurgicalGloves_Blue,BaseballCap_Blue,AthleticShoes_Blue,CivilianBelt,DryBag_Blue
+
+//Jäger
+ExpansionTraderNiki.Hunting|2413.44 300.814 3816.93|77.6365 0.0 0.0|ParamedicJacket_Blue,ParamedicPants_Blue,PoliceVest,NioshFaceMask,NBCGlovesGray,FlatCap_Blue,HikingBootsLow_Blue,MountainBag_Blue

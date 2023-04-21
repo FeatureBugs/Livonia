@@ -1,0 +1,100 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Helme",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MVS_WarriorHelmet_Tan",
+            "MaxPriceThreshold": 8600,
+            "MinPriceThreshold": 8600,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_WarriorHelmet_OD",
+                "MVS_WarriorHelmet_Black",
+                "MVS_WarriorHelmet_Snow",
+                "MVS_WarriorHelmet_ERDL",
+                "MVS_WarriorHelmet_Multicam",
+                "MVS_WarriorHelmet_Multicam_Tropic",
+                "MVS_WarriorHelmet_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_ArmoredHelmet_Tan",
+            "MaxPriceThreshold": 8700,
+            "MinPriceThreshold": 8700,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_ArmoredHelmet_OD",
+                "MVS_ArmoredHelmet_Black",
+                "MVS_ArmoredHelmet_Snow",
+                "MVS_ArmoredHelmet_ERDL",
+                "MVS_ArmoredHelmet_Multicam",
+                "MVS_ArmoredHelmet_Multicam_Tropic",
+                "MVS_ArmoredHelmet_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "mmg_armored_helmet_green",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_armored_helmet_black",
+                "mmg_armored_helmet_tan"
+            ]
+        },
+        {
+            "ClassName": "mmg_armored_helmet_visor_tan",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_armored_helmet_visor_black",
+                "mmg_armored_helmet_visor_green"
+            ]
+        },
+        {
+            "ClassName": "MMG_striker_helmet_green",
+            "MaxPriceThreshold": 8600,
+            "MinPriceThreshold": 8600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_striker_helmet_rusty",
+                "MMG_striker_helmet_black",
+                "MMG_striker_helmet_tan",
+                "MMG_striker_helmet_alpine",
+                "MMG_striker_helmet_erdl",
+                "MMG_striker_helmet_multicamblack",
+                "MMG_striker_helmet_multicam",
+                "MMG_striker_helmet_dark_woodland",
+                "MMG_striker_helmet_admin",
+                "MMG_striker_helmet_ucp",
+                "MMG_striker_helmet_multicam_tropic",
+                "MMG_striker_helmet_atacs"
+            ]
+        }
+    ]
+}

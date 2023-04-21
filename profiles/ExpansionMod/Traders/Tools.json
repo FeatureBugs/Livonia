@@ -1,0 +1,33 @@
+{
+    "m_Version": 10,
+    "DisplayName": "TOOLS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 999999,
+    "TraderIcon": "Nails",
+    "Currencies": [
+        "Money_Euro1",
+        "Money_Euro2",
+        "Money_Euro5",
+        "Money_Euro10",
+        "Money_Euro20",
+        "Money_Euro50",
+        "Money_Euro100",
+        "Money_Euro200",
+        "Money_Euro500"
+    ],
+    "Categories": [
+        "Gardening",
+        "Garage",
+        "Tools",
+        "Kits",
+        "Supplies",
+        "Locks",
+        "Flags",
+        "Lights",
+        "Electronics",
+        "BaseBuilding",
+        "Navigation",
+        "MuchStuff_Clothing"
+    ],
+    "Items": {}
+}

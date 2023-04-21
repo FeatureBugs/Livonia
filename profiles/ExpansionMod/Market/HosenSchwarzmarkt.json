@@ -1,0 +1,87 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Hosen",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MVS_GorkaPants",
+            "MaxPriceThreshold": 18500,
+            "MinPriceThreshold": 18500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_GorkaPants_Snow",
+                "MVS_GorkaPants_Multicam",
+                "MVS_GorkaPants_Multicam_Tropic",
+                "MVS_GorkaPants_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Pants_BDU",
+            "MaxPriceThreshold": 9500,
+            "MinPriceThreshold": 9500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Pants_BDU_Snow"
+            ]
+        },
+        {
+            "ClassName": "MMG_combatpants_olive",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_combatpants_black",
+                "MMG_combatpants_tan",
+                "MMG_combatpants_alpine",
+                "MMG_combatpants_erdl",
+                "MMG_combatpants_multicamblack",
+                "MMG_combatpants_multicam",
+                "MMG_combatpants_erdl",
+                "MMG_combatpants_dark_woodland",
+                "MMG_combatpants_admin",
+                "MMG_combatpants_ucp",
+                "MMG_combatpants_multicam_tropic",
+                "MMG_combatpants_police",
+                "MMG_combatpants_atacs"
+            ]
+        },
+        {
+            "ClassName": "mmg_tactical_pants_green",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_tactical_pants_black",
+                "mmg_tactical_pants_tan",
+                "mmg_tactical_pants_ucp",
+                "mmg_tactical_pants_multicam",
+                "mmg_tactical_pants_erdl",
+                "mmg_tactical_pants_atacs",
+                "mmg_tactical_pants_multicamblack",
+                "mmg_tactical_pants_multicam_tropic",
+                "mmg_tactical_pants_alpine",
+                "mmg_tactical_pants_dark_woodland",
+                "mmg_tactical_pants_atacs"
+            ]
+        }
+    ]
+}
