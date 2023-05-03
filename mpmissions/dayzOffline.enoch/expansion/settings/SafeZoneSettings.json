@@ -18,12 +18,20 @@
                 3816.929931640625
             ],
             "Radius": 50.0
+        },
+        {
+            "Center": [
+                3988.68,
+                238.328,
+                10167.2
+            ],
+            "Radius": 100.0
         }
     ],
     "PolygonZones": [],
     "ActorsPerTick": 5,
     "DisableVehicleDamageInSafeZone": 1,
     "EnableForceSZCleanup": 1,
-    "ItemLifetimeInSafeZone": 900.0,
+    "ItemLifetimeInSafeZone": 600.0,
     "ForceSZCleanup_ExcludedItems": []
 }
