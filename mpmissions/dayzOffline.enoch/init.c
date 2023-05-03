@@ -5,6 +5,13 @@ void main()
 	if ( ce )
 		ce.InitOffline();
 
+	Hive myHive = CreateHive();
+
+	SpawnObject( "ATSBin", "4006.26 238.983 10165.1", "40.3636 0.000000 -0.000000" ); // Helicopter Trader
+	SpawnObject( "ATSBin", "5403.11 15.6168 5018.54", "-119.226 0.000000 -0.000000" ); // Haupttrader (noch nicht richtig)
+	SpawnObject( "ATSBin", "7617.54 41.6342 9911.24", "-108.0 0.000000 -0.000000" );  // Drogen Dealer (noch nicht richtig)
+	SpawnObject( "ATSBin", "13795.5 6.98048 5032.5", "171.0 0.000000 -0.000000" ); // Jäger Trader (noch nicht richtig)
+
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
 	int reset_month = 8, reset_day = 10;
