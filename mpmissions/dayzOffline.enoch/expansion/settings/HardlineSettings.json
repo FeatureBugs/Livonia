@@ -1,10 +1,10 @@
 {
     "m_Version": 7,
-    "ReputationOnKillInfected": 5,
-    "ReputationOnKillPlayer": 10,
-    "ReputationOnKillAnimal": 5,
-    "ReputationOnKillAI": 10,
-    "ReputationLossOnDeath": 100,
+    "ReputationOnKillInfected": 25,
+    "ReputationOnKillPlayer": 250,
+    "ReputationOnKillAnimal": 10,
+    "ReputationOnKillAI": 100,
+    "ReputationLossOnDeath": 1000,
     "PoorItemRequirement": 0,
     "CommonItemRequirement": 0,
     "UncommonItemRequirement": 1000,
@@ -19,7 +19,7 @@
     "EnableFactionPersistence": 0,
     "EnableItemRarity": 1,
     "UseItemRarityForMarketPurchase": 1,
-    "UseItemRarityForMarketSell": 1,
+    "UseItemRarityForMarketSell": 0,
     "ItemRarity": {
         "mag_expansion_m9_15rnd": 3,
         "booniehat_blue": 4,
@@ -618,6 +618,14 @@
         "nbchoodyellow": 6,
         "booniehat_navyblue": 4,
         "hikingjacket_blue": 3,
-        "startkitiv": 4
+        "startkitiv": 4,
+        "CP_CannabisBrickBlackFrost": 6,
+        "CP_CannabisBrickNomad": 6,
+        "CP_CannabisBrickS1": 6,
+        "CP_CannabisBrickFuture": 6,
+        "CP_CannabisBrickStardawg": 6,
+        "CP_CannabisBrickKush": 6,
+        "CP_CannabisBrickBlue": 6,
+        "CP_CannabisBrickSkunk": 6
     }
 }
