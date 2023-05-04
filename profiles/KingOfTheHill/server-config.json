@@ -1,19 +1,19 @@
 {
     "m_ModVersion": "2.0",
-    "m_CaptureTime": 900.0,
+    "m_CaptureTime": 100.0,
     "m_UpdateInterval": 4.0,
-    "m_ServerStartDelay": 600.0,
+    "m_ServerStartDelay": 30.0,
     "m_HillEventInterval": 1500.0,
     "m_EventCleanupTime": 1800.0,
-    "m_EventPreStart": 200.0,
+    "m_EventPreStart": 300.0,
     "m_EveryEventCooldown": 100.0,
-    "m_EventPreStartMessage": "A Hill is spawning at %location% in %mintes% Minutes",
-    "m_EventCapturedMessage": "Hill at %location% has been captured by %winner%",
-    "m_EventDespawnedMessage": "Sorry, the Hill at %location% has despawned",
-    "m_EventStartMessage": "A Hill has spawned at %location%",
+    "m_EventPreStartMessage": "Ein Militärbehälter wird erwartet bei %location% in %mintes% Minuten",
+    "m_EventCapturedMessage": "Der Militärbehälter in %location% wurde erobert von %winner%",
+    "m_EventDespawnedMessage": "Der Militärbehälter in %location% wurde zerstört",
+    "m_EventStartMessage": "Ein Militärbehälter ist erschienen in %location%",
     "m_DoLogsToCF": 1,
     "m_PlayerPopulationToStartEvents": 1,
-    "m_MaxEvents": 2,
+    "m_MaxEvents": 1,
     "m_FlagName": "bldr_flag_chernarus_wall",
     "m_Creatures": [
         "ZmbM_PatrolNormal_PautRev",
@@ -27,37 +27,149 @@
     ],
     "m_HillLocations": [
         {
-            "Name": "Unkown Map",
-            "Radius": 0.0,
-            "CaptureRadius": 0.0,
+            "Name": "Wrzeszcz",
+            "Radius": 50.0,
+            "CaptureRadius": 20.0,
             "ResetCaptureTimeAfterAllPlayersLeavedZone": 0,
             "Position": [
-                0.0,
-                0.0,
-                0.0
+                9035.92,
+                341.193,
+                4394.34
             ],
-            "AISpawnCount": 0,
+            "AISpawnCount": 20,
             "ObjectListName": "none",
             "LootTier": 0
         },
         {
-            "Name": "Unkown Map Another Example",
-            "Radius": 0.0,
-            "CaptureRadius": 0.0,
+            "Name": "Bielawa",
+            "Radius": 50.0,
+            "CaptureRadius": 20.0,
             "ResetCaptureTimeAfterAllPlayersLeavedZone": 0,
             "Position": [
-                0.0,
-                0.0,
-                0.0
+                1464.33,
+                273.412,
+                9763.67
             ],
-            "AISpawnCount": 0,
+            "AISpawnCount": 20,
+            "ObjectListName": "none",
+            "LootTier": 0
+        },
+        {
+            "Name": "Tarnow",
+            "Radius": 50.0,
+            "CaptureRadius": 20.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 0,
+            "Position": [
+                9253.29,
+                199.63,
+                10869
+            ],
+            "AISpawnCount": 20,
+            "ObjectListName": "none",
+            "LootTier": 0
+        },
+        {
+            "Name": "Brena",
+            "Radius": 50.0,
+            "CaptureRadius": 20.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 0,
+            "Position": [
+                6484.65,
+                184.43,
+                11276.4
+            ],
+            "AISpawnCount": 20,
+            "ObjectListName": "none",
+            "LootTier": 0
+        },
+        {
+            "Name": "Radunin",
+            "Radius": 50.0,
+            "CaptureRadius": 20.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 0,
+            "Position": [
+                7475.86,
+                228.164,
+                6126.51
+            ],
+            "AISpawnCount": 20,
+            "ObjectListName": "none",
+            "LootTier": 0
+        },
+        {
+            "Name": "Polana",
+            "Radius": 50.0,
+            "CaptureRadius": 20.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 0,
+            "Position": [
+                3334.21,
+                487.23,
+                2049.59
+            ],
+            "AISpawnCount": 20,
+            "ObjectListName": "none",
+            "LootTier": 0
+        },
+        {
+            "Name": "Nadobor",
+            "Radius": 50.0,
+            "CaptureRadius": 20.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 0,
+            "Position": [
+                6159.14,
+                386.242,
+                4124.14
+            ],
+            "AISpawnCount": 20,
+            "ObjectListName": "none",
+            "LootTier": 0
+        },
+        {
+            "Name": "Widok",
+            "Radius": 50.0,
+            "CaptureRadius": 20.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 0,
+            "Position": [
+                10265.9,
+                242.561,
+                2125.36
+            ],
+            "AISpawnCount": 20,
+            "ObjectListName": "none",
+            "LootTier": 0
+        },
+        {
+            "Name": "Huta",
+            "Radius": 50.0,
+            "CaptureRadius": 20.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 0,
+            "Position": [
+                5230.44,
+                368.73,
+                5608.17
+            ],
+            "AISpawnCount": 20,
+            "ObjectListName": "none",
+            "LootTier": 0
+        },
+        {
+            "Name": "Zalesie",
+            "Radius": 50.0,
+            "CaptureRadius": 20.0,
+            "ResetCaptureTimeAfterAllPlayersLeavedZone": 0,
+            "Position": [
+                857.45,
+                242.191,
+                5505.91
+            ],
+            "AISpawnCount": 20,
             "ObjectListName": "none",
             "LootTier": 0
         }
     ],
     "m_RewardPools": [
         {
-            "RewardContainerName": "KingOfTheHillRewardChest",
+            "RewardContainerName": "Pool1",
             "m_Rewards": [
                 {
                     "ItemName": "M4A1",
@@ -82,7 +194,7 @@
                     ]
                 }
             ],
-            "m_LootTier": 1,
+            "m_LootTier": 0,
             "m_MaxWinningItems": 2,
             "m_MinWinningItems": 1
         }
