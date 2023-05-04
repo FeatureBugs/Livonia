@@ -229,7 +229,42 @@
             }
         ],
         "PantsGear": [],
-        "BackpackGear": [],
+        "BackpackGear": [
+            {
+                "ClassName": "Flashlight",
+                "Quantity": -1,
+                "Attachments": [
+                    "Battery9V"
+                ]
+            },
+            {
+                "ClassName": "CZ75",
+                "Quantity": -1,
+                "Attachments": [
+                    "Mag_CZ75_15Rnd"
+                ]
+            },
+            {
+                "ClassName": "AmmoBox_9x19_25rnd",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "SodaCan_Cola",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "MFP_MRE7",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "KitchenKnife",
+                "Quantity": -1,
+                "Attachments": []
+            }
+        ],
         "VestGear": [],
         "PrimaryWeapon": {},
         "SecondaryWeapon": {}
@@ -251,7 +286,7 @@
     "SpawnEnergyValue": 500.0,
     "SpawnWaterValue": 500.0,
     "EnableRespawnCooldowns": 1,
-    "RespawnCooldown": 120,
+    "RespawnCooldown": 900,
     "TerritoryRespawnCooldown": 240,
     "PunishMultispawn": 1,
     "PunishCooldown": 120,
